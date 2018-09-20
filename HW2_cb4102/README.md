@@ -28,3 +28,10 @@ Assignment #4 builds on assignment #3 but got us to create a CSV based on data b
 
 # Screenshot for Assignment #1:
 
+![Alt text](screenshot_1.png)
+
+![Alt text](screenshot2.png)
+
+![Alt text](screenshot3.png)
+
+![Alt text](screenshot4.png)
