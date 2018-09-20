@@ -14,11 +14,6 @@ key = sys.argv[1]
 bus_line = sys.argv[2]
 file_name = sys.argv[3]
 
-
-#key = 'ed535267-cb15-4347-9418-f4c376d09bdb'
-#bus_line = 'B38'
-#file_name = 'B52.csv'
-
 url = 'http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=' + key + '&LineRef=' + bus_line
 
 response = urllib.urlopen(url)
