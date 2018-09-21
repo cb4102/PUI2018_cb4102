@@ -2,6 +2,7 @@
 # Homework 2:
 
 This is the homework submission for Week 3 of Principles of Urban Informatics.
+Note that for assignment #4, I used the library csv using the function "import csv". This is a standard python package but will be needed to run my program.
 
 ## Academic Disclaimer:
 
